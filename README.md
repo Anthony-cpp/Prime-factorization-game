@@ -7,5 +7,5 @@ Siv3d:https://siv3d.github.io/ja-jp/
 
 プレイしたい方は↓のファイルをダウンロードしてください。
 
-DL:
+DL:https://drive.google.com/drive/folders/1qfkWEQ1LxOdi-k_PO3oCr2PwbizPKeRB?usp=sharing
 (2022.10.04 更新 ver1.00)
