@@ -1,7 +1,7 @@
 # Prime-factorization-game
 WIP
 
-こちらは、マインスイーパーをSiv3dで作ったものです。
+こちらは、素因数分解ゲームをSiv3dで作ったものです。
 
 Siv3d:https://siv3d.github.io/ja-jp/
 
